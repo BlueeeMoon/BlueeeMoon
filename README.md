@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/moon33_blue?color=%231DA1F2&label=BlueMoon&logo=Twitter&style=for-the-badge)] (https://twitter.com/moon33_blue)
 
 **BlueeeMoon/BlueeeMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
