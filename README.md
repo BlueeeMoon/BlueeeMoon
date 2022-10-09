@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 
 --- 
 
+[![Why am I in Bitcoin?](https://github-readme-medium.vercel.app/?username=blueemoon)](https://medium.com/@blueemoon)
+
+--- 
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
