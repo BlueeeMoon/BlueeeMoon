@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 
 --- 
 
-### @twitter
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=BitcoinMerges)](https://github.com/gazf/github-readme-twitter)
 
