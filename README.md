@@ -51,6 +51,9 @@ Here are some ideas to get you started:
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=BitcoinMerges)](https://github.com/gazf/github-readme-twitter)
+
+![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&type=horizontal&quote=Bitcoin%20es%20música%20y%20baila%20y%20Lightning%20es%20electrizante)
+
+
 
 ---
